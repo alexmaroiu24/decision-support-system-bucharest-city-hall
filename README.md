@@ -23,11 +23,14 @@ The DSS integrates multiple data sources, including:
 - Microsoft Excel
 - Power BI
 
-# Key Outcomes
-- Centralized and structured public-sector data
-- Visual dashboards for monitoring key performance indicators
-- Revenue forecasts supporting budget planning
-- Investment prioritization based on multiple decision criteria
+# Key contributions
+- Designed and implemented a relational database integrating budget, contracts, public procurements, organizational structure, and human resources data
+- Performed data cleaning, validation, and consistency checks using Excel
+- Conducted descriptive statistical analysis and data analysis with Pivot Tables and Charts
+- Built an interactive Power BI dashboard for monitoring key performance indicators
+- Developed short-term revenue forecasts using multiple time-series methods
+- Solved a multi-criteria decision-making problem for prioritizing public investments
+
 
 
 
