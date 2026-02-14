@@ -29,10 +29,5 @@ The DSS integrates multiple data sources, including:
 - Revenue forecasts supporting budget planning
 - Investment prioritization based on multiple decision criteria
 
-# Preview
-![Power BI Dashboard](dashboards/powerbi_dashboard.png)
 
-# Author
-Alexandru-Marian Măroiu  
-Student, Bucharest University of Economic Studies (CSIE)
 
